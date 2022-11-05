@@ -1,0 +1,14 @@
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Release\Setup.exe.config
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Release\Setup.exe.manifest
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Release\Setup.application
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Release\Setup.exe
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Release\Setup.pdb
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Release\Setup.xml
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Release\Setup.Form1.resources
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Release\Setup.Resources.resources
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Release\Setup.vbproj.GenerateResource.Cache
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Release\Setup.exe.manifest
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Release\Setup.application
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Release\Setup.exe
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Release\Setup.xml
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Release\Setup.pdb

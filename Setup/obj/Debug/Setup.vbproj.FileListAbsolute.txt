@@ -1,0 +1,14 @@
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Debug\Setup.exe.config
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Debug\Setup.exe.manifest
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Debug\Setup.application
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Debug\Setup.exe
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Debug\Setup.pdb
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\bin\Debug\Setup.xml
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Debug\Setup.Form1.resources
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Debug\Setup.Resources.resources
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Debug\Setup.vbproj.GenerateResource.Cache
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Debug\Setup.exe.manifest
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Debug\Setup.application
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Debug\Setup.exe
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Debug\Setup.xml
+F:\NewOneDrive\OneDrive\Projects\MyDotNetProjects\Setup\Setup\obj\Debug\Setup.pdb
